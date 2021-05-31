@@ -5,39 +5,41 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleExe", "ExampleExe\ExampleExe.csproj", "{A17762B7-09EA-4AAB-83A3-6C14A5F5E448}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1 - DataTypes", "Lesson1 - DataTypes\Lesson1 - DataTypes.csproj", "{49F23395-3903-42ED-9185-1AA8919C08B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson1 - DataTypes", "Lesson1 - DataTypes\Lesson1 - DataTypes.csproj", "{49F23395-3903-42ED-9185-1AA8919C08B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2 - IfElse", "Lesson2 - IfElse\Lesson2 - IfElse.csproj", "{B238DEB3-5257-47C0-8646-2BBE3769C19F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson2 - IfElse", "Lesson2 - IfElse\Lesson2 - IfElse.csproj", "{B238DEB3-5257-47C0-8646-2BBE3769C19F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3 - Arrays", "Lesson3 - Arrays\Lesson3 - Arrays.csproj", "{EE10360D-6D0A-4481-9933-FE536BB30F0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3 - Arrays", "Lesson3 - Arrays\Lesson3 - Arrays.csproj", "{EE10360D-6D0A-4481-9933-FE536BB30F0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4 - Loops", "Lesson4 - Loops\Lesson4 - Loops.csproj", "{CEEB0185-2F31-448F-AD5A-07F201C95EB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4 - Loops", "Lesson4 - Loops\Lesson4 - Loops.csproj", "{CEEB0185-2F31-448F-AD5A-07F201C95EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5 - EOlymp", "Lesson5 - EOlymp\Lesson5 - EOlymp.csproj", "{A2D2A2E6-50D8-4E30-9396-760C442A6FF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5 - EOlymp", "Lesson5 - EOlymp\Lesson5 - EOlymp.csproj", "{A2D2A2E6-50D8-4E30-9396-760C442A6FF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6 - EOlymp", "Lesson6 - EOlymp\Lesson6 - EOlymp.csproj", "{9E7BD036-A84A-43DC-8A76-5C9D7C7B98BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6 - EOlymp", "Lesson6 - EOlymp\Lesson6 - EOlymp.csproj", "{9E7BD036-A84A-43DC-8A76-5C9D7C7B98BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7 - String", "Lesson7 - String\Lesson7 - String.csproj", "{635E69C0-35EE-46CD-90A0-454298116AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson7 - String", "Lesson7 - String\Lesson7 - String.csproj", "{635E69C0-35EE-46CD-90A0-454298116AE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10 - Methods", "Lesson10 - Methods\Lesson10 - Methods.csproj", "{2A9B4CE8-D157-4127-8A08-3E740967AFC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson10 - Methods", "Lesson10 - Methods\Lesson10 - Methods.csproj", "{2A9B4CE8-D157-4127-8A08-3E740967AFC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8 - EOlymp", "Lesson8 - EOlymp\Lesson8 - EOlymp.csproj", "{187AA5BF-EBA6-46C4-BEF4-CF28C86D00BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson8 - EOlymp", "Lesson8 - EOlymp\Lesson8 - EOlymp.csproj", "{187AA5BF-EBA6-46C4-BEF4-CF28C86D00BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson11 - Ref Out", "Lesson11 - Ref Out\Lesson11 - Ref Out.csproj", "{B16FAB05-1EF6-4DAF-9D64-C7B0948D61FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson11 - Ref Out", "Lesson11 - Ref Out\Lesson11 - Ref Out.csproj", "{B16FAB05-1EF6-4DAF-9D64-C7B0948D61FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12 - OOP Intro", "Lesson12 - OOP Intro\Lesson12 - OOP Intro.csproj", "{E8B4FE6E-5459-439B-AD70-DA2CDC96790B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson12 - OOP Intro", "Lesson12 - OOP Intro\Lesson12 - OOP Intro.csproj", "{E8B4FE6E-5459-439B-AD70-DA2CDC96790B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13 - ExtensionMethods", "Lesson13 - ExtensionMethods\Lesson13 - ExtensionMethods.csproj", "{CEE86B5E-E9A4-4BDF-9734-4860176BEF29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson13 - ExtensionMethods", "Lesson13 - ExtensionMethods\Lesson13 - ExtensionMethods.csproj", "{CEE86B5E-E9A4-4BDF-9734-4860176BEF29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14 - Constructor", "Lesson14 - Constructor\Lesson14 - Constructor.csproj", "{74550F86-121F-4E2D-A647-6D9C54315D02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson14 - Constructor", "Lesson14 - Constructor\Lesson14 - Constructor.csproj", "{74550F86-121F-4E2D-A647-6D9C54315D02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15 - Inheritance", "Lesson15 - Interface Inheritance\Lesson15 - Inheritance.csproj", "{9DA54369-A076-49D5-B9B7-9AF910A51FA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson15 - Inheritance", "Lesson15 - Interface Inheritance\Lesson15 - Inheritance.csproj", "{9DA54369-A076-49D5-B9B7-9AF910A51FA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15 - Interface", "Lesson15 - Interface\Lesson15 - Interface.csproj", "{835F9D1F-A920-4131-AE4D-1B6E798B7C9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson15 - Interface", "Lesson15 - Interface\Lesson15 - Interface.csproj", "{835F9D1F-A920-4131-AE4D-1B6E798B7C9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson16 - Constructor Injection", "Lesson16 - Constructor Injection\Lesson16 - Constructor Injection.csproj", "{64A0595A-36A0-4182-B0D0-3C49595EFB8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson16 - Constructor Injection", "Lesson16 - Constructor Injection\Lesson16 - Constructor Injection.csproj", "{64A0595A-36A0-4182-B0D0-3C49595EFB8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson19 - List", "Lesson19 - List\Lesson19 - List.csproj", "{FE39BF4E-F5EC-40F5-9786-DE6A45EB61AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson19 - List", "Lesson19 - List\Lesson19 - List.csproj", "{FE39BF4E-F5EC-40F5-9786-DE6A45EB61AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheLearner", "..\TheLearner\TheLearner\TheLearner.csproj", "{B3408820-AE73-4154-AB51-4910461EA527}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{FE39BF4E-F5EC-40F5-9786-DE6A45EB61AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE39BF4E-F5EC-40F5-9786-DE6A45EB61AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE39BF4E-F5EC-40F5-9786-DE6A45EB61AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3408820-AE73-4154-AB51-4910461EA527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3408820-AE73-4154-AB51-4910461EA527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3408820-AE73-4154-AB51-4910461EA527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3408820-AE73-4154-AB51-4910461EA527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

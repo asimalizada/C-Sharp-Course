@@ -25,7 +25,7 @@ namespace Lesson10___Methods
             return a + b;
         }
 
-        SOLID - S -> Single Responsibility
+        //SOLID - S -> Single Responsibility
         static void Print()
         {
             bool isDivide;

@@ -37,45 +37,4 @@ namespace Lesson12___OOP_Intro
             //credt.Price = 1000;
         }
     }
-
-    class Car
-    {
-        public int year;
-
-        public decimal price;
-        public string brand;
-        public void Sell()
-        {
-            //
-            //Example
-            //
-            Console.WriteLine($"{brand} markali {price} qiymetli masin satildi");
-        }
-    }
-
-    class Credit
-    {
-        public int Percent;
-        public decimal InitialPrice;
-
-        private decimal _price;
-
-        public decimal GetPrice()
-        {
-            _price = InitialPrice + Percent * InitialPrice / 100;
-            return _price;
-        }
-
-        //public void SetPrice(decimal price)
-        //{
-        //    _price = price;
-        //}
-        public void GiveCredit()
-        {
-            Console.WriteLine($"{_customer} musterisine {Price} azn mebleginde kredit  verildi");
-        }
-        public decimal Price => InitialPrice + Percent * InitialPrice / 100;
-        private string _customer;
-        public string Customer { set => _customer = value; }
-    }
 }

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Lesson16___Constructor_Injection
+﻿namespace Lesson16___Constructor_Injection
 {
     class Program
     {
@@ -55,94 +53,5 @@ namespace Lesson16___Constructor_Injection
             //productManager.Add();
             //productManager.Delete();
         }
-    }
-    interface IProductService
-    {
-        void Add();
-        void Delete();
-    }
-
-    //class ProductManagerForA:IProductService
-    //{
-    //    public void Add()
-    //    {
-    //        Console.WriteLine("Product Added For A");
-    //    }
-    //    public void Delete()
-    //    {
-    //        Console.WriteLine("Product Deleted For A");
-    //    }
-    //}
-    //class ProductManagerForB : IProductService
-    //{
-    //    public void Add()
-    //    {
-    //        Console.WriteLine("Product Added For B");
-    //    }
-    //    public void Delete()
-    //    {
-    //        Console.WriteLine("Product Deleted For B");
-    //    }
-    //}
-
-    class ProductManager : IProductService
-    {
-        //property injection
-        //public IProductDal ProductDal { get; set; }
-
-        //constructor injection
-        private IProductDal _productDal;
-        public ProductManager(IProductDal productDal)
-        {
-            this._productDal = productDal;
-        }
-        public void Add()
-        {
-            this._productDal.Add();
-        }
-        public void Delete()
-        {
-            this._productDal.Delete();
-        }
-    }
-
-
-    class ProductDalForA : IProductDal
-    {
-        public void Add()
-        {
-            Console.WriteLine("Product Added For A");
-        }
-        public void Delete()
-        {
-            Console.WriteLine("Product Deleted For A");
-        }
-    }
-    class ProductDalForB : IProductDal
-    {
-        public void Add()
-        {
-            Console.WriteLine("Product Added For B");
-        }
-        public void Delete()
-        {
-            Console.WriteLine("Product Deleted For B");
-        }
-    }
-    class ProductDalForC : IProductDal
-    {
-        public void Add()
-        {
-            Console.WriteLine("Product Added For C");
-        }
-        public void Delete()
-        {
-            Console.WriteLine("Product Deleted For C");
-        }
-    }
-    interface IProductDal
-    {
-        void Add();
-        void Delete();
     }
 }
