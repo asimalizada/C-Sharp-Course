@@ -39,7 +39,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson16 - Constructor Inje
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson19 - List", "Lesson19 - List\Lesson19 - List.csproj", "{FE39BF4E-F5EC-40F5-9786-DE6A45EB61AF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginProject", "..\InceptionBase\InceptionBase\LoginProject.csproj", "{0B0436A1-D4F1-4982-952F-E955E33AE0B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginProject", "LoginProject\LoginProject.csproj", "{35E17A74-007A-43A6-A0EA-1D40AC02A4CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -119,10 +119,10 @@ Global
 		{FE39BF4E-F5EC-40F5-9786-DE6A45EB61AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE39BF4E-F5EC-40F5-9786-DE6A45EB61AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE39BF4E-F5EC-40F5-9786-DE6A45EB61AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B0436A1-D4F1-4982-952F-E955E33AE0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B0436A1-D4F1-4982-952F-E955E33AE0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B0436A1-D4F1-4982-952F-E955E33AE0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B0436A1-D4F1-4982-952F-E955E33AE0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E17A74-007A-43A6-A0EA-1D40AC02A4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E17A74-007A-43A6-A0EA-1D40AC02A4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E17A74-007A-43A6-A0EA-1D40AC02A4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E17A74-007A-43A6-A0EA-1D40AC02A4CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
